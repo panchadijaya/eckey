@@ -7,6 +7,7 @@
     "crypto",
     "bitcoin",
     "litecoin",
+    "goldcoin",
     "elliptical",
     "curve",
     "digital",
@@ -20,7 +21,7 @@
     "standard": "6.x"
   },
   "repository": {
-    "url": "https://github.com/cryptocoinjs/eckey",
+    "url": "https://github.com/panchadijaya/eckey",
     "type": "git"
   },
   "main": "./lib/eckey.js",
